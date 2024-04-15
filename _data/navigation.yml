@@ -1,22 +1,30 @@
 # main links links
 main:
-  - title: "Publications"
+
+  - title: "💼CV"
+    url: /files/CV.pdf
+
+  - title: "🔍Working Papers"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "💻Code Samples"
+    url: /talks/   
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "🏫Working/Project Experience"
+    url: /portfolio/ 
+
+  # - title: "Awards & Honors"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+     
+  # - title: "References"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
+
+  - title: "🏆️Awards & Honors"
+    url: /awards/
+
+  - title: "References"
+    url: /references/

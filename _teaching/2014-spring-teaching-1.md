@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Research Assistant in Singapore Management University"
 collection: teaching
-type: "Undergraduate course"
+type: "Part time Research Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
