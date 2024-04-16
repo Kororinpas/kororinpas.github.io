@@ -22,7 +22,34 @@ GDP growth rate during the term and the growth rate in the election year positiv
 Economic Voting, Peak-end rule, Voter rationality, Myopic, Cross-National
 
 ### Current Status:  
-Submitted to *Economics & Politics*
+*R & R* *Economics & Politics*
 
 
 ### PDF: [Decision-making of Voters’ Election Behavior A new perspective based on Peak-end rule.pdf](/files/Decision-making of Voters’ Election Behavior A new.pdf)
+
+
+<!-- ### Submission Experience
+
+- Submitted to *European Journal of Political Economy*
+
+  Date: 2023-10 —— 2024-01
+
+  Results: Rejected (Two Review Comments)
+
+  Editor Comments: No
+
+- Submitted to *Public Choice*
+
+  Date: 2023-09
+
+  Results: Desk Rejection
+
+  Editior Comments: While your paper is interesting, its relationship to and contribution over previously published, close related studies such as Andrew Healy and Gariel Lenz's article in the American Journal of Political Science is unclear.
+
+- Submitted to *Economics Letters* 
+
+  Date: 2021-04
+
+  Results: Desk Rejection
+  
+  Editor Comments: While the question is interesting, the empirical strategy is not robust to omitted confounding factors correlated with the included economic indicators. -->

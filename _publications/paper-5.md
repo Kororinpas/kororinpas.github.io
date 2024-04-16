@@ -23,3 +23,43 @@ Political Business Cycle Theory, Carbon Dioxide emission, Promotion incentive fo
 
 ### Current Status:  
 Submitted to *Journal of Environmental Economics and Management*
+
+
+
+### Submission Experience
+
+
+- Submitted to *Journal of Environmental Economics and Management*
+
+  Date: 2022-11 —— 2023-01
+
+  Results: Rejected (Three Review Comments)
+  
+  Editor Comments: I read your paper with great interest because I think the research question is important and novel. I thus sent the paper to three experts in the field. While all agree that the topic is worth investigating, they also raise several issues that are difficult to address. I also consulted one editorial member of JEEM to seek more comments. Unfortunately, s/he is also not positive. After going through the referee reports and reading the paper one more time, I decide to reject the paper.
+
+<!-- - Submitted to *Journal of Environmental Management*
+
+  Date: 2022-09 
+
+  Results: Desk Rejection
+
+  Editor Comments: No
+
+- Submitted to *Climate Policy*
+
+  Date: 2022-02 —— 2022-08
+
+  Results: Rejected (Three Review Comments)
+
+  Editor Comments: No
+
+- Submitted to *Environmental Science and Policy*
+
+  Date: 2022-09
+
+  Results: Desk Rejection
+
+  Editor Comments: No -->
+
+     
+  
