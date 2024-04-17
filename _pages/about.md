@@ -33,6 +33,7 @@ redirect_from:
 
 ### <i class="fas fa-scroll"></i> Working Papers
 - [Does a Political Carbon Emission Cycle in China exist?](/publication/paper-5) (with HE He; JOHN Boland) Submitted to *Journal of Environmental Economics and Management*
+- [Decision-making of Voters’ Election Behavior A new perspective based on Peak-end rule](/publication/paper-4) (with JIN Yiyang; DONG Yuanyuan; LIU Yazhou) *R & R* *Economics & Politics*
 
 ### 💻 Programming
 - [Lit-Cite —— An auto citation programme powered by AI](/talks/programme_3)
