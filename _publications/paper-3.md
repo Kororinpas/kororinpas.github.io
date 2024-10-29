@@ -1,5 +1,5 @@
 ---
-title: "Attraction is All you Need: Can AI-Predicted Eye-Catching Titles Spell Academic Triumph?"
+title: "Attraction is all you need: The Impact of Eye-Catching Titles on Publication Success and Citation Rates in Economics"
 collection: publications
 permalink: /publication/paper-3
 excerpt: 'Authors: SHEN Zekai'
@@ -26,5 +26,7 @@ Bert, ChatGPT, Publication, Citations, Eye-catching Title
 
 ### Current Status:  
 Work in Progress Under the Supervision of [Professor Aljoscha JANSSEN](/references/reference_3)
+
+### PDF: [Attraction is all you need: The Impact of Eye-Catching Titles on Publication Success and Citation Rates in Economics.pdf](/files/Attraction_is_All_You_Need.pdf)
 
 

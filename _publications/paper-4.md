@@ -1,12 +1,11 @@
 ---
-title: "Decision-making of Voters’ Election Behavior A new perspective based on Peak-end rule"
+title: "Economic Voting Behavior: The Peak-end Growth Rule"
 collection: publications
 permalink: /publication/paper-4
 excerpt: 'Authors: SHEN Zekai; JIN Yiyang; DONG Yuanyuan; LIU Yazhou'
 #date: 2009-10-01
 #venue: 'Journal 1'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Shen, Z., Jing, Y., Dong, Y., & Liu, Y. Decision-Making of Voters’ Election Behavior: A New Perspective Based on Peak-End Rule. Available at SSRN 4606011.'
 ---
 
 ## Authors: SHEN Zekai; JIN Yiyang; DONG Yuanyuan; LIU Yazhou
@@ -22,10 +21,10 @@ GDP growth rate during the term and the growth rate in the election year positiv
 Economic Voting, Peak-end rule, Voter rationality, Myopic, Cross-National
 
 ### Current Status:  
-*R & R* *Economics & Politics*
+*Economics & Politics*
 
 
-### PDF: [Decision-making of Voters’ Election Behavior A new perspective based on Peak-end rule.pdf](/files/Decision-making of Voters’ Election Behavior A new.pdf)
+### PDF: [Economic voting behavior  The peak‐end growth rule.pdf](/files/Economic voting behavior  The peak‐end growth rule.pdf)
 
 
 <!-- ### Submission Experience
